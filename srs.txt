@@ -1,0 +1,4 @@
+i am writing all the functional and non functional requirements of the srs
+a. login
+b. placement portal design
+c. view attendance
